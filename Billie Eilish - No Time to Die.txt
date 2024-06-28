@@ -1,0 +1,115 @@
+[Intro]
+  Em		    	C		      	  A					B
+  X O O     O       O O O O O O       O O O O O O       O O O O O O
+  | | | | | |       | | | | | |       | | | | | |       | | | | | |       
+            1 7               1 7               1 7     T       1   7
+          1   7             1   7             1   7           2     8 
+          2   8     T       2   8             2   8           3     9
+		3     9           3     9           3     9
+e|-------------7---|-------------7---|-------------7---|-----------------|
+B|-----7---8-------|-----7---8-------|-----7---8-------|---------7-------|
+G|-9---------------|-9---------------|-9---------------|-8---9-----------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-0-0---0---0---0-|-----------------|
+E|-0-0---0---0---0-|-8-8---8---8---8-|-----------------|-7-7---7---------|
+  Em		    C		      A			B
+e|-------------7---|-------------7---|-------------7---|-----------------|
+B|-----7---8-------|-----7---8-------|-----7---8-------|-----------------|
+G|-9---------------|-9---------------|-9---------------|-8---------------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-0-0---0---0---0-|-----------------|
+E|-0-0---0---0---0-|-8-8---8---8---8-|-----------------|-7---------------|
+
+Em	C7	Am	A	B7	Emmaj9
+0	0	0	0	2	2
+0  0  1	2	0	0
+0  0  2	2	2	0
+2  2  2	2	1	1
+2  3  0	0	2	2
+0  X  X	X	X	0
+
+[Intro]
+||: Em | Cmaj7 | Am | B7 :||
+
+[Verse 1]
+Em    Cmaj7        A   Am
+   I  should have known
+Em     Cmaj7  Am
+   I'd leave alone
+Em     Cmaj7    A   Am
+  Just goes to show
+         Cmaj7               Am                 B7
+That the blood you bleed is just the  blood  you owe
+
+Em     Cmaj7    A   Am
+   We  were  a pair
+Em      Cmaj7     A   Am
+   But I saw you there
+Em    Cmaj7     A   Am
+  Too  much to bear
+            Cmaj7             Am             B7
+You were my life, but life is far away from fair
+
+[Pre-Chorus]
+       Cmaj7
+Was I stupid to love you?
+        Em
+Was I reckless to help?
+         Am                  B7
+Was it obvious to everybody else?
+
+[Chorus]
+           Em  Cmaj7   Am
+That I'd fallen for a lie
+          Em  Cmaj7    Am
+You were never on  my side
+        Em            Cmaj7
+Fool me once, fool me twice
+         Am
+Are you death or paradise?
+            Em   Cmaj7  Am
+Now you'll never see me cry
+         B7             Em
+There's just no time to die
+
+[Interlude]
+||: Em | Cmaj7 | A | B7 :||
+
+[Verse 2]
+Em   Cmaj7   A   Am
+  I  let it burn
+Em           Cmaj7        A     Am
+   You're no longer my concern
+Em       Cmaj7          A     Am
+   Faces from my past return
+        Cmaj7          B7
+Another lesson yet to learn
+
+[Chorus]
+           Em  Cmaj7  Am
+That I'd fallen for a lie
+          Em   Cmaj7   Am
+You were never on  my side
+        Em            Cmaj7
+Fool me once, fool me twice
+         Am
+Are you death or paradise?
+            Em   Cmaj7  Am
+Now you'll never see me cry
+         B7             Em
+There's just no time to die
+
+[Refrain]
+Cmaj7        Am    B7
+ No  time to die, hmmmm
+           Em    Cmaj7  Am  B7
+No time to die
+[Outro]
+        Em            Cmaj7
+Fool me once, fool me twice
+          Am
+Are you death or paradise?
+            Em   Cmaj7  Am
+Now you'll never see me cry
+         B7              Em   Emmaj9
+There's just no time to die

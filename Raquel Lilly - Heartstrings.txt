@@ -1,0 +1,8 @@
+EbA7    -   E flat major 7      -   XX1333
+C-7     -   C minor 7           -   X31313
+AbA7    -   A flat major 7      -   431113
+Bb7sus  -   B flat 7 suspended  -   X11141
+Bb7     -   B flat 7            -   X13231
+
+[Verse]
+EbA7 | C-7 | AbA7 | Bb7sus Bb7

@@ -1,0 +1,150 @@
+Cejilla/capo en el primer o segundo traste, al gusto.
+
+Para cualquier asunto, javier@kioku.es
+
+Intro/(Fill 1)    Fill 2           Fill 3          Fill 4
+
+----0--2h-3----|-------------------|---------------|--------------
+----0--0--0----|--5--4--1--0-------|---------------|--------------
+---------------|-----5--2--0-------|---------------|-----------2--
+---------------|--4------------4---|-----5--4h5h4--|-----1--4-----
+---------------|--------------(3)--|--2------------|--2-----------
+---------------|-------------------|---------------|--------------
+
+Acordes para la intro:
+
+Am        xx7555
+Gmaj7     xx5777
+G7        353433
+D#dim     xx4545
+C#dim/F#  2xx323
+B7*       xx120x
+
+(Fill 1) - Am - B7 - Em
+(Fill 1) - Am - B7 - Em - Bdim
+
+(Fill 1) - Am - Gmaj7 - G7 - D#dim - C#dim/F#
+(Fill 2) - Em - B7 - B7/F# - (Fill 3) - B7*
+
+Em                      Am
+Querría sujetarte las mañanas,
+  B7        C9            B7           B7/F#
+hacer malabarismos con tu voz y con mi voz.
+Em                      Am
+Querría abrirte todas las ventanas
+B7          B7/F#              Cdim         Em
+pa' que nos diese la brisa del mar en el colchón
+
+Am7                   B7
+Querría festejar tus alegrías,
+B7/F#      B7
+sufrir tus melancolías
+          E         Bdim
+y besarte en el corazón.
+
+Am7                      B7
+Querría guardar esta melodía
+       F#+7         B7
+y escribirte una canción
+    (Fill 4)       Em
+con todo lo que querría.
+
+        Am    B7   Em  Balt
+Si yo pudiera,
+        Am    B7   Em
+si me dejaras,
+        Am    B7   Em  Balt
+si me atreviera,
+        Am    B7   Em
+si el cielo hablara
+E7   Am                 Am/E
+te diría que pierdo las ganas de odiar
+      Em
+si acomodo mis pasos a tu caminar
+         B7        B7/F#             E7       Bdim
+y que el mundo contigo se ve menos enfermo,
+    Am                 Cdim*
+que ya es primavera en el corte inglés,
+       Em                C#dim
+que he pedido una caña y me han puesto tres,
+         Am7*                     B7
+que va a ser que se ha puesto de moda el amor otra vez.
+
+(Fill 1) - Am - B7 - Em
+(Fill 1) - Am - B7 - Em - Bdim
+
+(Fill 1) - Am - Gmaj7 - G7 - D#dim - C#dim/F#
+(Fill 2) - Em - B7 - B7/F# - (Fill 3) - B7*
+
+Em/9add                 Am7
+Querría traducirte la mirada,
+B7              B7/F#      C9             B7 B7/F#
+pararme en tu parada y plantarme en tu jardín
+Em                      Am
+y protagonizar tus carcajadas
+  B7           B7/F#        Cdim       Em
+y que mis madrugadas fuesen todas para ti.
+
+Am7                   Em
+Querría salpimentarte los días,
+                 B7
+rebuscarte las manías
+            E        Bdim
+y darle armonía a tu son.
+
+Am7                 B7
+Querría que toda la poesía
+      F#+7          B7         Cdim        Em
+se rindiera ante la rima de tu vida con la mía.
+
+
+        Am    B7   Em  Balt
+Si yo pudiera,
+        Am    B7   Em
+si me dejaras,
+        Am    B7   Em  Balt
+si me atreviera,
+        Am    B7   Em
+si el cielo hablara
+E7   Am                 Am/E
+te diría que pierdo las ganas de odiar
+      Em
+si acomodo mis pasos a tu caminar
+         B7        B7/F#             E7       Bdim
+y que el mundo contigo se ve menos enfermo,
+    Am                 Cdim*
+que ya es primavera en el corte inglés,
+       Em                C#dim
+que he pedido una caña y me han puesto tres,
+         Am7                     B7      (Cdim)    Em
+que va a ser que se ha puesto de moda el amor otra vez.
+Cdim     Am7                     B7      (Cdim)    Em
+Que va a ser que se ha puesto de moda el amor otra vez.
+Cdim     Am7                     B7                Em
+Que va a ser que se ha puesto de moda el amor otra vez.
+
+
+(Fill 1) - Am - B7 - Em
+(Fill 1) - Am - B7 - Em - Bdim
+
+(Fill 1) - Am - Gmaj7 - G7 - D#dim - C#dim/F#
+(Fill 2) - Em - B7 - B7/F# - (Fill 3) - B7*
+
+Resto de acordes
+
+C9       x3233x
+Cdim     x3424x
+Cdim*    xx1212
+C#dim    xx2323
+D#dim    xx4545
+Em       022000
+Em/9add  024000
+F#+7     2x233x
+Am       002210
+Am7      xx2010 ó xx2013
+Am7*     575555
+B7       x2120x
+Balt     x2x122
+Bdim     x2313x
+
+En los acordes de la forma X/Y la tónica se sustituye por Y.

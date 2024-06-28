@@ -1,0 +1,203 @@
+For the most time of the song Natalias main-guitar is playing this:
+
+ 
+
+        D                A7               A7               D
+
+E|-----------------|-----------------|-----------------|-----------------|
+B|----7-------7----|----8-------8----|----8-------8----|----7-------7----|
+G|---7--7----7--7--|---6--6----6--6--|---6--6----6--6--|---7--7----7--7--|
+D|--7--7----7--7---|--7--7----7--7---|--7--7----7--7---|--7--7----7--7---|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+
+Later she starts strumming. Hard to hear what she is actually playing.
+
+So I go with the standard-chords:
+ D  = 557775 (might be also D/B = 757775)
+A7  = 557685 (x07687 also sounds good)
+A7* = 575655
+
+[Intro]
+        D                A7               A7               D
+E|-----------------|-----------------|-----------------|-----------------|
+B|----7-------7----|----8-------8----|----8-------8----|----7-------7----|
+G|------7----7--7--|---6--6----6--6--|---6--6----6--6--|---7--7----7--7--|
+D|-----7----7--7---|--7--7----7--7---|--7--7----7--7---|--7--7----7--7---|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+
+        D                A7               A7               D
+E|-----------------|-----------------|-----------------|-----------------|
+B|----7-------7----|----8-------8----|----8-------8----|----7-------7----|
+G|---7--7----7--7--|---6--6----6--6--|---6--6----6--6--|---7--7----7-----|
+D|--7--7----7--7---|--7--7----7--7---|--7--7----7--7---|--7--7----7------|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+
+[Verse 1]
+       D
+En mi tierra veracruzana
+      A7
+Sólo quiero tomar café
+      A7
+Un poquito de azúcar y caña
+      D
+Pa' ponerme a mover los pies
+
+      D
+De la penca de una banana
+   A7
+De su verde morena piel
+     A7
+Ando toda re-enamorada
+      D
+Sólo quiero volverte a ver
+
+[Chorus]
+           D
+Volverte a ver
+           A7
+Volverte a ver
+    A7                          D
+Mi tierra veracruzana te quiero ver
+           D
+Volverte a ver
+           A7
+Volverte a ver
+   A7                            D
+Mi tierra veracruzana te quiero querer
+
+[Verse]
+      D
+En mi tierra veracruzana
+      A7
+Sólo quiero abrazar el mar
+       A7
+Ver la noche cosí una hamaca
+       D
+De la mañana solo cantar
+
+       D
+En el campo enterrar las piernas
+       A7
+En la arena sólo bailar
+       A7
+En el barco entregar mis sueños
+      D
+Y mi casa pa' huevonear
+
+[Chorus]
+           D
+Volverte a ver
+           A7
+Volverte a ver
+    A7                          D
+Mi tierra veracruzana te quiero ver
+           D
+Volverte a ver
+           A7
+Volverte a ver
+   A7                            D
+Mi tierra veracruzana te quiero querer
+
+[Verse]
+D                                A7
+ No hay un día que pase que no te piense
+A7                        D
+ Esta lejanía me hace extráñarte
+D                                 A7
+ No hay un día que pase que no te piense
+A7                         D
+ Pinto melodías con tus paisajes
+
+[Next part the pattern Changes until the bridge starts]
+        D                A7             D                 A7
+E|-----------------|-----------------|-----------------|-----------------|
+B|----7-------7----|----8-------8----|----7-------7----|----8-------8----|
+G|---7--7----7--7--|---6--6----6--6--|---7--7----7-----|---6--6----6--6--|
+D|--7--7----7--7---|--7--7----7--7---|--7--7----7------|--7--7----7--7---|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+        D                  A7
+Con tus paisajes de verde limón
+                            D
+Un rosa guayaba que uso pa' amor
+                             A7
+ Un rojo-amarillo pitalla la flor
+                        D
+Azul de tu golfo y rojo pasión
+
+Volverte a ver
+           A7
+Volverte a ver
+             D
+Yo te quiero querer
+ 
+Volverte a ver
+           A7      [Strumming starts]
+Volverte a ver
+
+      E|-----------5-5--5-5--|
+      B|----8------8-8--8-8--|
+      G|---6--6----6-6--6-6--|
+      D|--7--7-----7-7--7-7--|
+      A|-----------5-5--5-5--|
+      E|-----------5-5--5-5--|
+
+[Bridge]
+D A7 A7*  |D A7 A7*  |D A7 A7*  |D A7 A7*  |
+
+D
+Café con pan [x7]
+
+[Verse]
+      D
+En mi tierra veracruzana
+     A7
+Sólo quiero tomar café
+     A7
+Un poquito de azúcar y caña
+      D
+Pa' ponerme a mover los pies
+       D
+De la penca de una banana
+      A7
+De su verde morena piel
+     A7
+Ando toda re-enamorada
+       D
+Sólo quiero volverte a ver
+
+[Chorus]
+           D
+Volverte a ver
+           A7
+Volverte a ver
+    A7                          D
+Mi tierra veracruzana te quiero ver
+           D
+Volverte a ver
+           A7
+Volverte a ver
+   A7                            D
+Mi tierra veracruzana te quiero querer
+
+           D
+Volverte a ver
+Volverte a ver
+           A7
+Volverte a ver
+   A7                              D
+Mi tierra veracruzana yo te quiero ver
+            D
+Volverte a ver
+
+Volverte a ver
+           A7
+Volverte a ver
+    A7 (one stroke)
+
+Mi tierra veracruzana
+             D A7 A7*  |D A7 A7*  |
+Yo te quiero querer
