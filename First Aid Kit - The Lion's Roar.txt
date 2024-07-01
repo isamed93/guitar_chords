@@ -1,60 +1,91 @@
 Strumming D-D-UD-U
+capo on 5
+
 
 [Intro]
-|Em|G |D |Em|
+Em G D Em
+
 
 [Verse]
-Now the pale morning sings of forgotten things                                      |Em|G |D |Em|
-She plays a tune for those who wish to overlook                                     |Em|G |Em|Em|
-The fact that they'd been blindly deceived by those who preach and pray and teach   |Em|G |D |Em|
-But she falls short and the night explodes with laughter                            |Em|G |Em|Em|
+         Em            G       D          Em
+Now the pale morning sings of forgotten things
+             Em                 G           Em
+She plays a tune for those who wish to overlook
+               Em             G               D                    Em
+The fact that they'd been blindly deceived by those who preach and pray and teach
+      Em                     G                   Em
+But she falls short and the night explodes with laughter
 
-Don’t you come here and say I didn’t warn you                   |Em|G |D |Em|
-About the way your world can alter                              |Em|G |Em|Em|
-And oh, how you try to command it all, still                    |Em|G |D |Em|
-Every single time it all shifts one way or another              |Em|G |Em|Em|
+           Em            G      D         Em
+Don’t you come here and say I didn’t warn you
+          Em         G       Em
+About the way your world can alter
+    Em            G        D            Em
+And oh, how you try to command it all, still
+     Em                          G           Em
+Every single time it all shifts one way or another
+
 
 [Chorus]
-And I’m a goddamn coward, but then again so are you             |C |G |D |Em|
-And the lion’s roar, the lion’s roar                            |C |G |D |Em|
-Has me evading and hollering for you                            |C |G |D |Em|
-And I never really knew, what to do                             |C |G |D |Em|
+           C         G               D           Em
+And I’m a goddamn coward, but then again so are you
+         C       G       D        Em
+And the lion’s roar, the lion’s roar
+       C         G     D        Em
+As we evaded and hollering for you
+       C      G     D              Em
+And I never really knew, what to do
+
 
 [Instrumental]
-|Em|G |D |Em|
+Em G D Em
 
 [Verse]
-Now I guess sometimes I wish you were a little more predictable |Em|G |D |Em|
-That I could read you just like a book                          |Em|G |Em|Em|
-For now I can only guess what’s coming next                     |Em|G |D |Em|
-By examining your timid smile                                   |Em|G |Em|Em|
+        Em                G               D             Em
+Now I guess sometimes I wish you were a little more predictable
+     Em                G           Em
+That I could read you just like a book
+       Em      G          D             Em
+For now I can only guess what’s coming next
+     Em            G        D
+By examining your    timid    smile
+         Em           G        D                              Em
+And the ways that the old, old wind, blowin’ you back around
 
-And the ways that the old, old wind, blowin’ you back around    |Em|G |D |Em|
 
 [Chorus]
-And I’m a goddamn fool, but then again so are you               |C |G |D |Em|
-And the lion’s roar, the lion’s roar                            |C |G |D |Em|
-Has me singing out and searching for you                        |C |G |D |Em|
-And I never really knew, what to do                             |C |G |D |Em|
+          C        G              D           Em
+And I’m a goddamn fool, but then again so are you
+         C       G         D     Em
+And the lion’s roar, the lion’s roar
+        C               G     D       Em
+Has me singing out and searching for you
+       C     G      D                Em
+And I never really knew, what to do
 
 [Instrumental]
-|Em|G |D |Em|
-|Em|G |D |Em|
+Em G D Em
+Em G D Em
 
 [Bridge]
-Sometimes I wish I could find my rose mary hill                 |A7|A7|C |C |Em|Em|Em|Em|
-I sit there and look at the deserted lakes and I’d sing         |A7|A7|C |C |Em|Em|Em|Em|
-And every once in a while I’d sing a song for you               |C |G |D |Em|
-That would rise above the mountains and the stars and the sea   |C |G |D |Em|
-And if I wanted it to, it would lead you back to me             |C |--|--|--|Em|Em|Em|Em|
+A7                        C                Em
+Sometimes I wish I could find my rose mary hill
+  A7                        C                     Em
+I sit there and look at the deserted lakes and I’d sing
+          C          G        D               Em
+And every once in a while I’d sing a song for you
+           C               G                 D             Em
+That would rise above the mountains and the stars and the sea
+          C                                        Em
+And if I wanted it to, it would lead you back to me
 
 [Chorus]
 (STRUM ONLY ONCE ALL)
-And the lion’s roar, the lion’s roar                            |C |G |D |Em|
-Is something that I have heard before                           |C |G |D |Em|
-a children’s tale, the lonesome wail                            |C |G |D |Em|
-of a liiiiion’s roar                                            |Em|G |D |Em|
-
-[Outro]
-|Em|G |D |Em|
-|Em|G |D |Em|
+        C      G         D       Em
+And the lion’s roar, the lion’s roar
+    C             G       D       Em
+Is something that I have heard before
+   C          G         D       Em
+a children’s tale, the lonesome wail
+Em   G    D           Em
+of a liiiiion’s roar
