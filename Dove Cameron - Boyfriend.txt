@@ -3,7 +3,7 @@ Em    022000
 Am    X02210
 C     X32010
 B7    X21202
-C#dim X1232X
+C#dim X4565X
 
 V PC C
 Em C#dim C B7
