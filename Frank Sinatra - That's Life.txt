@@ -1,50 +1,80 @@
-[Intro]
-|G |G |B7|B7|C |C |A |A |G |G |B7|Em|A |D7|
+G  320003
+B7 X21202
+C  X32010
+A7 X02020
+Em 022000
+D7 XX0212
+A  X02220
+G7 320001
+D  XX0232
 
 [Verse]
-That's life, that's what all the people say                                 |G |G |B7|B7|
-You're ridin' high in April, shot down in May                               |Em|Em|A |A |
-But I know I'm gonna change that tune                                       |G |B7|Em|Em|
-When I'm back on top, back on top in June                                   |A |A |D7|D7|
+        G                B7
+That's life, that's what all the people say
+       Em                    A
+You're ridin' high in April, shot down in May
+      G              B7          Em
+But I know I'm gonna change that tune
+          A                           D7
+When I'm back on top, back on top in June
 
-That's life, and as funny as it may seem                                    |G |G |B7|B7|
-Some people get their kicks stompin' on a dream                             |Em|Em|A |A |
-But I don't let it get me down                                              |G |B7|Em|Em|
-'Cause this fine old world, it keeps me spinnin' around                     |A |A |D7|D7|
+         G            B7
+That's life, and as funny as it may seem
+  Em                         A
+Some people get their kicks stompin' on a dream
+    G             B7        Em
+But I don't let it get me down
+             A                                    D7
+'Cause this fine old world, it keeps me spinnin' around
 
 [Chorus]
-I've been a puppet, a pauper, a pirate, a poet, a pawn and a king           |G |G |G7|G7|
-I've been up and down and over and out and I know one thing                 |C |C |C |C |
-Each time I find myself flat on my face                                     |A |A |A |A |
-I just pick myself up and get back in the race                              |D |D |D |D |
+            G                                     B7
+I've been a puppet, a pauper, a pirate, a poet, a pawn and a king
+          C
+I've been up and down and over and out and I know one thing
+      A
+Each time I find myself flat on my face
+        D
+I just pick myself up and get back in the race
 
 [Verse]
-That's life, oh, that's life and I can't deny it                            |G |G |B7|B7|
-Many times I thought of cuttin' out but my heart won't buy it               |Em|Em|A |A |
-And if I didn't think it was worth one single try                           |G |B7|Em|Em|
-Well, I'd hop upon a big bird and then I'd fly                              |A |A |D7|D7|
-
- 
+        G                        B7
+That's life, oh, that's life and I can't deny it
+       Em                                    A
+Many times I thought of cuttin' out but my heart won't buy it
+       G                B7                   Em
+And if I didn't think it was worth one single try
+          A                                D7
+Well, I'd hop upon a big bird and then I'd fly
 
 [Chorus]
-I've been a puppet, a pauper, a pirate, a poet, a pawn and a king           |G |G |G7|G7|
-I've been up and down and over and out and I know one thing                 |C |C |C |C |
-Each time I find myself flat on my face                                     |A |A |A |A |
-I just pick myself up and get back in the race                              |D |D |D |D |
- 
+            G                                     B7
+I've been a puppet, a pauper, a pirate, a poet, a pawn, oh, and a king
+          C
+I've been up and down and over and out and I know one thing
+      A
+Each time I find myself flat on my face
+       D
+I just pick myself up and get back in the race
 
-(Here add a capo on the 1st fret, the artist makes time to put it on. Just play the same chords)
-
- 
+(Here add a capo on the 1st fret)
 
 [Verse]
-That's life, oh, and I can't deny it                                        |G |G |G7|G7|
-Many times I thought of cuttin' out but my heart won't buy it               |Em|Em|A |A |
-And if there's nothin' shakin' come this here July                          |G |B7|Em|Em|
-Well, I'm gonna roll myself up in a little ball and die                     |A |A |D7|D7|
+        G             B7
+That's life, oh, and I can't deny it
+      Em                                     A
+Many times I thought of cuttin' out but my heart won't buy it
+       G                      B7                 Em
+And if there's nothin' shakin' come this here July
+                A                                   D7
+Well, I'm gonna roll myself up in a little ball and die
 
 [Outro]
-That's life, and as funny as it may seem                                    |G |G |B7|B7|
-Some people get their kicks stompin' on a dream                             |Em|Em|A |A |
-But I don't let it get me down                                              |G |B7|Em|Em|
-'Cause this fine old world, it keeps me spinnin' around                     |A |A |G-|--|
+         G            B7
+That's life, and as funny as it may seem
+  Em                         A
+Some people get their kicks stompin' on a dream
+    G             B7        Em
+But I don't let it get me down
+             A                                    G
+'Cause this fine old world, it keeps me spinnin' around
