@@ -3,16 +3,16 @@ There is a house in New Orleans
     Am        C     E
 They call the rising sun
         Am       C      D            F
-And it's been the ruin of many a poor girl 
+And it's been the ruin of many a poor girl
    Am      E        Am
 And me, oh god, I'm one
 
  Am           C     D       F
-If I'd listened to my mama 
-    Am      C      E 
+If I'd listened to my mama
+    Am      C      E
 Lord I'd be home today
    Am    C          D       F
-But I was young and foolish 
+But I was young and foolish
           Am        E   Am
 A handsome rider led me astray
 
@@ -30,9 +30,9 @@ My mother she's a tailor
    Am       C       E
 She sewed my new blue jeans
   Am       C        D        F
-My sweetheart he's a rambler 
-          Am      E     Am
-He seemed the man of my dreams
+My sweetheart he's a rambler
+   Am         E      Am
+He seemed the man of dreams
 
       Am     C       D       F
 Now the only thing a rambler needs
@@ -44,7 +44,7 @@ The only time he's satisfied
 is when he's on the run
 
  Am          C       D       F
-He fills his chamber up with lead 
+He fills his chamber up with lead
    Am        C         E
 And takes his pain to town
     Am        C       D          F
@@ -55,7 +55,7 @@ Is bringing another man down
 |Am|C |D |F |
 |Am|C |E |E |
 |Am|C |D |F |
-|Am|E |Am|Am|
+|Am|E |Am|--|
 
          Am      C       D        F
 He's got one hand on the saddle
@@ -75,7 +75,3 @@ And I'm staying here to end my life
     Am      E       Am
 Down in the rising sun
 
-       Am      C       D          F
-And I'm staying here to end my life
-    Am      E       Am
-Down in the rising sun
