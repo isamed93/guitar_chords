@@ -1,3 +1,4 @@
+Capo: III
 [Intro]
 Dm Am C G
 
@@ -22,8 +23,8 @@ Hope we'll get there pretty soon
 [Pre-Chorus]
  Dm
 Trying so hard to release
-       Am
-You're out of the misery
+    Am
+You out of the misery
  C
 Hold on to your wishes
        G
