@@ -27,7 +27,11 @@ In other words,    please be true!
    Dm7         G7  Fm     C
 In other words     I love you
 
-Am Dm7 G7 Cmaj7  F Dm E Am   Dm7 G7 Em A7 E7   Dm7 G7 C
+[Instrumental Break]
+Am  | Dm7| G7 | Cmaj7
+F   | Dm | E  | Am
+Dm7 | G7 | Em | A7 E7
+Dm7 | G7 | C  |
 
 Am                 Dm7              G7           Cmaj7
 Fill my heart with song, and let me sing forever more
@@ -38,5 +42,5 @@ you are all I long for all I worship & adore
 In other words,    please be true!
    Dm7        G7
 In other words
-   Dm7          G G7
-In other words  I love you!
+   Dm7        G7 Fm  C
+In other words   I love you!
