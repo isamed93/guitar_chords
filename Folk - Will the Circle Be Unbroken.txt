@@ -11,9 +11,9 @@ Will you join them in their bliss?
 [Chorus]
 G     A   C
 Will the Circle be unbroken
-       F
+       F          C
 By and by, by and by
-C                Am
+                  Am
 Is a better home awaiting
         C    G     C
 In the sky, in the sky
@@ -75,6 +75,7 @@ Will the Circle be unbroken
 By and by, by and by
                 Am
 Is a better home awaiting
+         C   G     C
 In the sky, in the sky
 
 [Verse 5]
